@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Text;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Ciao,mondo");
 #region firma
 Console.WriteLine("Classe 3 \nAS 2023/24 ");
 //firma dell'autore
@@ -16,5 +16,5 @@ for (int i = 0; i < 128; i++)
     Console.WriteLine("Carattere numero " + i + ": " + c); //stampa a video dei caratteri
 }
 
-Console.WriteLine("Premi un tasto per chiudere il programma");
+Console.WriteLine("Premi 2 tasti per chiudere il programma");
 Console.ReadKey();
